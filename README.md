@@ -1,6 +1,6 @@
 # BGU_IntroToDS
 
-Welcome to the BGU_IntroToDS repository! This repository is dedicated to the Introduction to Data Science course offered at Ben-Gurion University. Here, you'll find a collection of lab exercises, resources, and projects developed throughout the course
+Welcome to the BGU_IntroToDS repository! This repository is dedicated to the Introduction to Data Science course offered at Ben-Gurion University. Here, you'll find a collection of lab exercises and resources developed throughout the course
 
 ### Key Topics Covered:
 - Data Exploration and Preprocessing
